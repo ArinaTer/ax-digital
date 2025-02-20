@@ -1,0 +1,103 @@
+[
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/best-renders/main.mp4",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/best-renders/main.mp4",
+		"title": "Beyond Perfection",
+		"bottom-title": "Renders Gallery",
+		"icon": "",
+		"additionalClasses": "essential",
+		"typeMedia": "video",
+		"data-work-id": "always",
+		"data-work-name": "best-gallery"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/butique-23-360/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/butique-23-360/img/Cover.jpg",
+		"title": "Boutique 23",
+		"bottom-title": "AR/VR",
+		"icon": "",
+		"additionalClasses": "essential",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "boutique-23-360"
+	}
+	,
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-resort/img/Cover1-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-resort/img/Cover1.jpg",
+		"title": "KETURAH RESORT",
+		"bottom-title": "Exclusive project",
+		"icon": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/cards-icons/pano2vr.svg",
+		"additionalClasses": "essential",
+		"typeMedia": "img",
+		"data-work-id": "Exclusive project",
+		"data-work-name": "keturah-resort"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/emaar-beachfront-vr/img/Cover.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/emaar-beachfront-vr/img/Cover-min.jpg",
+		"title": "Emaar Beachfront",
+		"bottom-title": "AR/VR",
+		"icon": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/cards-icons/pano2vr.svg",
+		"additionalClasses": "essential",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "beachfront-vr"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/park-ridge-templates/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/park-ridge-templates/img/Cover.jpg",
+		"title": "Aurora",
+		"bottom-title": "Template",
+		"icon": "",
+		"additionalClasses": "essential",
+		"typeMedia": "img",
+		"data-work-id": "Template",
+		"data-work-name": "park-ridge-template"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/sls-residence-3d/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/sls-residence-3d/img/Cover.jpg",
+		"title": "SLS Residences",
+		"bottom-title": "3D visualization",
+		"icon": "",
+		"additionalClasses": "essential",
+		"typeMedia": "img",
+		"data-work-id": "3D visualization",
+		"data-work-name": "sls-residences-3d"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/downtown-terraces-360/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/downtown-terraces-360/img/Cover.jpg",
+		"title": "Downtown Terraces",
+		"bottom-title": "AR/VR",
+		"icon": "",
+		"additionalClasses": "essential",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "downtown-terraces-360"
+	}
+	,
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-reserve/img/main-min2.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-reserve/img/main2.jpg",
+		"title": "KETURAH RESERVE",
+		"bottom-title": "Exclusive project",
+		"icon": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/cards-icons/pano2vr.svg",
+		"additionalClasses": "essential",
+		"typeMedia": "img",
+		"data-work-id": "Exclusive project",
+		"data-work-name": "keturah-reserve"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/cavalli-couture-templates/img/Cover1-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/cavalli-couture-templates/img/Cover1.jpg",
+		"title": "Eclipse",
+		"bottom-title": "Template",
+		"icon": "",
+		"additionalClasses": "essential",
+		"typeMedia": "img",
+		"data-work-id": "Template",
+		"data-work-name": "cavalli-couture-template"
+	}
+]

@@ -1,0 +1,269 @@
+[
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/biltmore/img/Cover1-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/biltmore/img/Cover1.jpg",
+		"title": "Biltmore Residences Sufouh",
+		"bottom-title": "Exclusive project",
+		"icon": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/cards-icons/pano2vr.svg",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "Exclusive project",
+		"data-work-name": "biltmore-sufouh"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/damac-lagoons/img/main-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/damac-lagoons/img/main.jpg",
+		"title": "damac lagoons",
+		"bottom-title": "Exclusive project",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "Exclusive project",
+		"data-work-name": "damac-lagoons"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/urban/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/urban/img/Cover.jpg",
+		"title": "URBAN LIFE",
+		"bottom-title": "Exclusive project",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "Exclusive project",
+		"data-work-name": "urban-life"
+	}
+	,
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-reserve-vr/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-reserve-vr/img/Cover.jpg",
+		"title": "Keturah Reserve",
+		"bottom-title": "AR/VR",
+		"icon": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/cards-icons/pano2vr.svg",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "keturah-reserve-vr"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/hearthquarters-vr/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/hearthquarters-vr/img/Cover.jpg",
+		"title": "KEYMAVENS Headquarters",
+		"bottom-title": "AR/VR",
+		"icon": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/cards-icons/Matterport.svg",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "keymavens-headquarters-vr"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/urban-vr/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/urban-vr/img/Cover.jpg",
+		"title": "URBAN LIFE",
+		"bottom-title": "AR/VR",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "urban-life-vr"
+	},
+
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/biltmore-360/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/biltmore-360/img/Cover.jpg",
+		"title": "biltmore sufouh",
+		"bottom-title": "AR/VR",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "biltmore-sufouh-360"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/damac-bay-360/img/Cover1-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/damac-bay-360/img/Cover1.jpg",
+		"title": "DAMAC Bay",
+		"bottom-title": "AR/VR",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "damac-bay-360"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-reserve-360/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-reserve-360/img/Cover.jpg",
+		"title": "Keturah Reserve",
+		"bottom-title": "AR/VR",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "keturah-reserve-360"
+	}
+	,
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-resort-360/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-resort-360/img/Cover.jpg",
+		"title": "Keturah Resort",
+		"bottom-title": "AR/VR",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "keturah-resort-360"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/sls-360/img/Cover1-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/sls-360/img/Cover1.jpg",
+		"title": "SLS Residences",
+		"bottom-title": "AR/VR",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "sls-residences-360"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/urban-360/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/urban-360/img/Cover.jpg",
+		"title": "URBAN LIFE",
+		"bottom-title": "AR/VR",
+		"icon": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/cards-icons/Matterport.svg",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "AR/VR",
+		"data-work-name": "urban-life-360"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/eywa-templates/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/eywa-templates/img/Cover.jpg",
+		"title": "Echo",
+		"bottom-title": "Template",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "Template",
+		"data-work-name": "eywa-template"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-reserve-templates/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/keturah-reserve-templates/img/Cover.jpg",
+		"title": "Vortex",
+		"bottom-title": "Template",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "Template",
+		"data-work-name": "keturah-reserve-template"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/ocean-point-templates/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/ocean-point-templates/img/Cover.jpg",
+		"title": "Ember",
+		"bottom-title": "Template",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "Template",
+		"data-work-name": "ocean-point-template"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/verona-shorts-templates/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/works/verona-shorts-templates/img/Cover.jpg",
+		"title": "Nova",
+		"bottom-title": "Template",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "Template",
+		"data-work-name": "verona-shorts-template"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/biltmore-sufoh-3d/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/biltmore-sufoh-3d/img/Cover.jpg",
+		"title": "Biltmore Sufouh",
+		"bottom-title": "3D visualization",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "3D visualization",
+		"data-work-name": "biltmore-sufoh-3d"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/downtown-terraces-3d/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/downtown-terraces-3d/img/Cover.jpg",
+		"title": "Downtown Terraces",
+		"bottom-title": "3D visualization",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "3D visualization",
+		"data-work-name": "downtown-terraces-3d"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/gs-office-3d/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/gs-office-3d/img/Cover.jpg",
+		"title": "GS Office",
+		"bottom-title": "3D visualization",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "3D visualization",
+		"data-work-name": "gs-office-3d"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/kempinski-3d/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/kempinski-3d/img/Cover.jpg",
+		"title": "Kempinski",
+		"bottom-title": "3D visualization",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "3D visualization",
+		"data-work-name": "kempinski-3d"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/keturah-reserve-3d/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/keturah-reserve-3d/img/Cover.jpg",
+		"title": "Keturah Reserve",
+		"bottom-title": "3D visualization",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "3D visualization",
+		"data-work-name": "keturah-reserve-3d"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/keturah-resort-3d/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/keturah-resort-3d/img/Cover.jpg",
+		"title": "Keturah Resort",
+		"bottom-title": "3D visualization",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "3D visualization",
+		"data-work-name": "keturah-resort-3d"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/montage-by-valori-3d/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/montage-by-valori-3d/img/Cover.jpg",
+		"title": "Montage by Valori",
+		"bottom-title": "3D visualization",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "3D visualization",
+		"data-work-name": "montage-by-valori-3d"
+	},
+	{
+		"media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/penthouse-3d/img/Cover-min.jpg",
+		"page-media": "https://d3b6muno9lbfvx.cloudfront.net/ax-digital/3d-visualization/penthouse-3d/img/Cover.jpg",
+		"title": "Penthouse",
+		"bottom-title": "3D visualization",
+		"icon": "",
+		"additionalClasses": "additional",
+		"typeMedia": "img",
+		"data-work-id": "3D visualization",
+		"data-work-name": "penthouse-3d"
+	}
+]

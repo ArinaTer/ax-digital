@@ -1,0 +1,37 @@
+[
+	{
+		"text": "Matterport",
+		"query": "Matterport",
+		"spareClass": "dropdown-works__item_hide"
+	},
+	{
+		"text": "Template",
+		"query": "Template",
+		"spareClass": ""
+	},
+	{
+		"text": "3D visualization",
+		"query": "3D visualization",
+		"spareClass": ""
+	},
+	{
+		"text": "Video production",
+		"query": "Video production",
+		"spareClass": "dropdown-works__item_hide"
+	},
+	{
+		"text": "Branding",
+		"query": "Branding",
+		"spareClass": "dropdown-works__item_hide"
+	},
+	{
+		"text": "AR/VR",
+		"query": "AR/VR",
+		"spareClass": ""
+	},
+	{
+		"text": "Exclusive project",
+		"query": "Exclusive project",
+		"spareClass": ""
+	}
+]
