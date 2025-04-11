@@ -1,53 +1,55 @@
 AX Digital
 
-AX Digital is a website for a company specializing in exclusive real estate projects. The site features dynamic and engaging content, utilizing technologies like Swiper, GSAP, and a 360° Photo Sphere Viewer for an interactive experience. It showcases the company’s expertise in developing unique landing pages and digital experiences tailored to real estate.
+AX Digital — это сайт компании, специализирующейся на эксклюзивных проектах в сфере недвижимости. Сайт включает динамичное и увлекательное содержание, использующее такие технологии, как Swiper, GSAP и 360° Фото-Сфера для интерактивного взаимодействия. Он демонстрирует экспертизу компании в создании уникальных посадочных страниц и цифровых решений, ориентированных на недвижимость.
 
-📌 About the Project
-AX Digital demonstrates the company's ability to create modern, responsive websites with smooth animations and interactive elements. The site integrates Swiper for seamless navigation and GSAP for animations, while the 360° Photo Sphere Viewer allows users to explore real estate properties interactively.
+📌 О проекте
+AX Digital демонстрирует способность компании создавать современные, адаптивные сайты с плавными анимациями и интерактивными элементами. Сайт использует Swiper для удобной навигации, GSAP для анимаций, а 360° Фото-Сфера позволяет пользователям интерактивно исследовать объекты недвижимости.
 
-🎯 Key Features
+🎯 Ключевые особенности
 
-Interactive 360° view for immersive property exploration
+Интерактивный 360° просмотр для погружения в исследование недвижимости
 
-Smooth animations powered by GSAP
+Плавные анимации с использованием GSAP
 
-Swiper integration for dynamic and responsive content
+Интеграция Swiper для динамичного и адаптивного контента
 
-Fully compatible with both mobile and desktop browsers
+Полная совместимость с мобильными и десктопными браузерами
 
-User-friendly interface with a modern design
+Удобный интерфейс с современным дизайном
 
-🛠️ Technologies Used
+🛠️ Используемые технологии
 
-Swiper for smooth and responsive content navigation
+Swiper для плавной и адаптивной навигации
 
-GSAP for dynamic animations
+GSAP для динамичных анимаций
 
-360° Photo Sphere Viewer for interactive property tours
+360° Фото-Сфера для интерактивных туров по недвижимости
 
-Built with HTML / CSS / JavaScript
+Разработано с использованием HTML / CSS / JavaScript
 
-📲 How to Use
-Open the site in any modern browser.
-Navigate through the interactive elements and explore the content seamlessly on both mobile and desktop devices.
 
-📥 How to Download the Repository
+📥 Как скачать репозиторий
 
-Clone the repository from the dev branch:
+Клонируйте репозиторий с ветки dev:
 
 git clone https://github.com/ArinaTer/ax-digital.git
 
+📦 Установка зависимостей
 
-📦 Install Dependencies Ensure you have Node.js installed, then run:
+Убедитесь, что у вас установлен Node.js, затем выполните:
 
 npm install
 
-🚀 Running the Project Locally Start the development server:
+🚀 Запуск проекта локально
+
+Запустите сервер разработки:
 
 npm run dev
 
-Open your browser and visit: http://localhost:3000
+Откройте браузер и посетите: http://localhost:3000
 
-🏗️ Creating a Production Build To generate a production-ready build:
+🏗️ Создание production-версии
+
+Для генерации сборки для продакшн:
 
 npm run build
