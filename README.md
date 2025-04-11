@@ -1,4 +1,5 @@
 AX Digital
+
 AX Digital is a website for a company specializing in exclusive real estate projects. The site features dynamic and engaging content, utilizing technologies like Swiper, GSAP, and a 360° Photo Sphere Viewer for an interactive experience. It showcases the company’s expertise in developing unique landing pages and digital experiences tailored to real estate.
 
 📌 About the Project
