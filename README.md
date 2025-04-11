@@ -32,6 +32,7 @@ Open the site in any modern browser.
 Navigate through the interactive elements and explore the content seamlessly on both mobile and desktop devices.
 
 📥 How to Download the Repository
+
 Clone the repository from the dev branch:
 
 git clone https://github.com/ArinaTer/ax-digital.git
